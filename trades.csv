@@ -1,0 +1,3 @@
+trade_date,asset,direction,entry_price,exit_price,leverage,margin_amount,profit_loss
+
+2026-10-10,ZECUSDT,BUY/LONG,80.0,100.0,30,10.0,75.0
